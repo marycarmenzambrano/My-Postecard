@@ -34,8 +34,11 @@ body {
 	padding: 10px;
 }
 
-.input {
-	border: nomme;
+.input-datos {
+	font-family: "Dancing Script", cursive;
+	border-top: 0px;
+	border-left: 0px;
+	border-right: 0px;
 	border-bottom: 1px grey solid;
 }
 .postcard-footer {
